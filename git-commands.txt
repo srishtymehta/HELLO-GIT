@@ -1,0 +1,7 @@
+git:Its a tool.
+git hub-Its  web service to store and share git repositories
+git init-To initialize a git repository
+git status-To check status of repository anytime
+git add- Tell git to track your changes
+git commit-Tell git to create checkpoint /version
+git push- To upload project to the cloud)(Git hub).
